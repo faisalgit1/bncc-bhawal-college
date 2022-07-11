@@ -1,0 +1,89 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.top-banner {
+    background-image: url(images/bncc-man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-banner {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(5, 7, 156);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(5, 7, 156);
+    font-size: 40px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(255, 81, 0);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 20px;
+
+
+}
+
+.margin-bottom {
+    margin-bottom: 100px;
+}
+
+.cuo {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    width: 100%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 45px;
+}
+
+.background {
+    background-color: yellow;
+    padding-left: 10px;
+    color: red;
+}
+
+.text-align {
+    text-align: center;
+    color: red;
+}
+
+.half {
+    background-color: azure;
+    margin: 50px;
+    padding: 30px;
+}
+
+.flex1 {
+    display: flex;
+}
+
+.half img {
+    width: 250px;
+    margin-left: 20%;
+}
+
+.half h4 {
+    margin-left: 20%;
+    color: red;
+}
